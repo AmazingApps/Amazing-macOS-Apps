@@ -1,3 +1,12 @@
-# My Awesome Book
+# macOS 绝妙应用
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+因为macOS系统用户来源的特殊性，大部分都是从Windows投靠而来。因此，本书绝大部分推荐和Windows相应的类似软件，以及一些不错的开源软件。因版权原因暂不推荐破解。
+
+1.优先推荐.app应用，其次推荐.pkg安装包。
+
+2.开源软件优先。
+
+3.大厂跨平台软件推荐\(但会考虑到安装复杂度以及对系统的修改情况\)
+
+其他说明 （TE）表示此软件拥有 TNT Edition
+
